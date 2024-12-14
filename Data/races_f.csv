@@ -1,4 +1,4 @@
-raceID,year,circuitID,name,date,time,humidity,precip,windspeed,temp,pressure
+raceID,year,circuitID,name,date,start_time(UTC),humidity,precip,windspeed,temp,pressure
 1,2009,1,Australian Grand Prix,2009-03-29,6:00:00,54.71666666666667,0.0,10.4,9.8,1020.6666666666666
 2,2009,2,Malaysian Grand Prix,2009-04-05,9:00:00,72.26333333333334,0.0,6.266666666666666,29.333333333333332,1010.6
 3,2009,17,Chinese Grand Prix,2009-04-19,7:00:00,83.76666666666667,0.0,30.566666666666663,19.466666666666665,1010.0
